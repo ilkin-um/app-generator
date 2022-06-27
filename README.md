@@ -1,4 +1,6 @@
-# fastapi-postgresql-starter
+# app-generator
+
+Original codebase: https://github.com/tiangolo/full-stack-fastapi-postgresql
 
 ## Backend Requirements
 
